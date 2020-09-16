@@ -8,7 +8,7 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -70,5 +70,10 @@
     "width": 300,
     "collapsed": true
   },
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Basic Node.md",
+    "SemVer.md",
+    "Semantic Versioning.md",
+    "Untitled.md"
+  ]
 }
