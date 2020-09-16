@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Basic-Node.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Basic-Node.md"
+              }
             }
           }
         ]
@@ -71,9 +76,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Basic-Node.md",
+    "Route-Paths.md",
+    "Untitled.md",
     "Basic Node.md",
     "SemVer.md",
-    "Semantic Versioning.md",
-    "Untitled.md"
+    "Semantic Versioning.md"
   ]
 }
