@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basic-Node.md",
+            "file": "NPM.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic-Node.md"
+                "file": "NPM.md"
               }
             }
           }
@@ -76,11 +76,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Basic-Node.md",
+    "NPM.md",
     "Route-Paths.md",
-    "Untitled.md",
-    "Basic Node.md",
-    "SemVer.md",
-    "Semantic Versioning.md"
+    "Managing-Packages.md",
+    "Ex-Routing.md",
+    "SemVer.md"
   ]
 }
