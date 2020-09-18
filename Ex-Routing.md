@@ -53,7 +53,7 @@ app.delete('/user', function(req, res) {
 })
 ```
 
-You can also use app.all() to handle all HTTP methods and app.use() to specify middleware as the callback function (See Using [Ex-Middleware] for details).
+You can also use app.all() to handle all HTTP methods and app.use() to specify middleware as the callback function (See Using [[Ex-Middleware]] for details).
 
 the application “listens” for requests that match the specified route(s) and method(s), and when it detects a match, it calls the specified callback function
 

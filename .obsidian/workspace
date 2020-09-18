@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basic-Node.md",
+            "file": "Serve-staticFile.md",
             "mode": "source"
           }
         }
@@ -48,7 +48,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9eb439b16e78fbd3",
@@ -64,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic-Node.md"
+                "file": "Serve-staticFile.md"
               }
             }
           }
@@ -76,10 +77,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Basic-Node.md",
+    "Untitled.md",
+    "Ex-Middleware.md",
     "Ex-Routing.md",
-    "Route-Paths.md",
-    "NPM.md",
-    "Managing-Packages.md"
+    "Managing-Packages.md",
+    "Basic-Node.md"
   ]
 }
