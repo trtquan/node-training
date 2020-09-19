@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CreateAModel.md",
+            "file": "ModelCreate.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CreateAModel.md"
+                "file": "ModelCreate.md"
               }
             }
           }
