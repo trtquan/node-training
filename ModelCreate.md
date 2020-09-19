@@ -24,3 +24,23 @@ await Character.create([{ name: 'Will Riker' }, { name: 'Geordi LaForge' }]);
 // specify options.
 await Character.create([{ name: 'Jean-Luc Picard' }], { session });
 ```
+
+Model.createCollection()
+Parameters
+[options] «Object» see MongoDB driver docs
+[callback] «Function»
+Create the collection for this model. By default, if no indexes are specified, mongoose will not create the collection for the model until any documents are created. Use this method to create the collection explicitly.
+
+Note 1: You may need to call this before starting a transaction See https://docs.mongodb.com/manual/core/transactions/#transactions-and-operations
+
+Note 2: You don't have to call this if your schema contains index or unique field. In that case, just use Model.init()
+
+Example:
+```js
+const userSchema = new Schema({ name: String })
+const User = mongoose.model('User', userSchema);
+
+User.createCollection().then(function(collection) {
+  console.log('Collection is created!');
+});
+```
