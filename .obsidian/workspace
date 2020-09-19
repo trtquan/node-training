@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "POST.md",
+            "file": "MongoDB.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POST.md"
+                "file": "MongoDB.md"
               }
             }
           }
